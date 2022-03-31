@@ -1,0 +1,15 @@
+Cheeseburger
+2
+3.50
+Fries
+2
+2.35
+Hotdog
+1
+2.00
+Soda
+3
+2.00
+Milkshake
+1
+5.00
